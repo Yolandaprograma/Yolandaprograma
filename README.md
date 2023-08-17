@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hola soy Yolanda 👋
 
 <!--
 **Yolandaprograma/Yolandaprograma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Sobre mi
+
+Recién llegada a este mundo de la tecnología, mi pasado viene precedida de los números y la administración.<br>
+Acabo de realizar un curso de Front-end donde hemos dado **HTML**, **CSS**, **JAVASCRIPT**, **VUE**,
+**GIT**,  **SQL**. <br>
+<br>
+Me encanta el Front-end y la parte visual, pero también me encanta los números y el analisis de datos por eso también he hecho cursos de <br>
+**Introducción a la ciencia de datos con Python** e **Introducción a la programación con R**.
+     
