@@ -32,7 +32,7 @@ print('Hello world')
 | **Front-end**          |  HTML - CSS - JavaScript   |                           |
 | Framework - Librerias  |          VUE               |   REACT   - Svelte        |
 |------------------------|----------------------------|---------------------------|
-| **Ciencia de Datos**   | Python                     |                           |
+| **Ciencia de Datos**   | Python  -  R-RStudio       |                           |
 | Librerías              | Pandas - Numpy - Matplotlib|     Machine Learning      |
 | Visualización Datos    | Excel - Power BI           |                           |
 |------------------------|----------------------------|---------------------------|
