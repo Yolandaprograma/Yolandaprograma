@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Sobre mi
 
-Recién llegada a este mundo de la tecnología, mi pasado viene precedida de los números y la administración.<br>
+Recién llegada a este mundo de la tecnología, mi pasado viene precedido de los números y la administración.<br>
 Acabo de realizar un curso de Front-end donde hemos dado **HTML**, **CSS**, **JAVASCRIPT**, **VUE**,
 **GIT**,  **SQL**. <br>
 ```html
